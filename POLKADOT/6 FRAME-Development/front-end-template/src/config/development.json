@@ -1,0 +1,13 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "FortEve": {
+      "Team Name": "Vec<u8>",
+      "Team Member  [ 1 ]": "Vec<u8>",
+      "Team Member  [ 2 ]": "Vec<u8>",
+      "Team Member  [ 3 ]": "Vec<u8>"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
