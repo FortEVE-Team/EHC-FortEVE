@@ -1,5 +1,6 @@
 # AVALANCHE
-[1-Create a Fixed-Cap Asset](./1-Create a Fixed-Cap Asset)
+
+[1.Create a Fixed-Cap Asset](./1-Create a Fixed-Cap Asset)
 
 [2-Create Variable-Cap Asset](./2-Create Variable-Cap Asset)
 
