@@ -1,4 +1,8 @@
-# Encode-Hack-CLub ( Polkadot: Easy: Onboarding) && ( Avalanche: Tutorial )
+# Encode-Hack-CLub 
+
+( Polkadot: Easy: Onboarding)
+
+( Avalanche: Tutorial )
 
 ## FortEVE
 
