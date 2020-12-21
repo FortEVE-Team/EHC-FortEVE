@@ -1,4 +1,4 @@
 <p align="center">
->> Local Substrate Development Chain
+  <span>Local Substrate Development Chain </span>
 <img src="./pr.png">
 </p>
