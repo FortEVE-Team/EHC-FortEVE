@@ -1,8 +1,9 @@
 # Encode-Hack-CLub 
 
-( Polkadot: Easy: Onboarding)
 
-( Avalanche: Tutorial )
+[Polkadot: Easy: Onboarding](https://github.com/FortEVE-Team/EHC-FortEVE/tree/main/POLKADOT)
+
+[Avalanche: Tutorial](https://github.com/FortEVE-Team/EHC-FortEVE/tree/main/AVALANCHE)
 
 ## FortEVE
 
