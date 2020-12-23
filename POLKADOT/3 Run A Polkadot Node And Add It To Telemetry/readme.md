@@ -5,5 +5,6 @@
 
 
 <p align="center">
-<img src="./pr.png">
+<img src="./terminal.png">
+<img src="./ss1.png">
 </p>
